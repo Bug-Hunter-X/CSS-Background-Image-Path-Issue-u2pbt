@@ -1,0 +1,1 @@
+The solution involves correcting the relative path to the image.  If the image is in a 'images' subdirectory, use `background-image: url('../images/image.jpg');` in the CSS file.
