@@ -1,0 +1,1 @@
+The CSS rule `background-image: url(image.jpg);` is causing unexpected behavior because the image file 'image.jpg' is located in a subdirectory and the relative path is incorrect.
